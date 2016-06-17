@@ -9,10 +9,10 @@ System Requirement:
 
 Setup and Deployment
 
-1: Extract the zip folder and cd into the ‘samsung-cart’ directory
-2: on your terminal window  execute this command  `sudo npm install`
+1: Clone the samsung-cart repository into your workspace
+2: open the directory in your terminal window and  execute this command  `sudo npm install`
 3: Once the dependencies have been successfully installed execute `npm run dev`
-4: Run the application on this url: http://localhost:3000/
+4: Run the application on this url:http://localhost:3000/
 
 
 API URL
